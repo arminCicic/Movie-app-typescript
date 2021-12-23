@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Live Demo
 
-[Visit live](https://cinephilia.vercel.app/).
+[Visit live](https://movie-app-using-typescript.vercel.app/).
 
 ## Available Scripts
 
