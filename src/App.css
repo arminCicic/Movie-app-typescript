@@ -1,0 +1,16 @@
+/* To make all the scrools smooth I gave it this global styles */
+
+* {
+  scroll-behavior: smooth;
+}
+
+.app {
+  min-height: 100vh;
+  background-color: #22254b;
+}
+
+@media (max-width: 700px) {
+  .app {
+    /* padding-top: 70px; */
+  }
+}
