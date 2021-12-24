@@ -3,7 +3,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#API key is saved within an environmental variable that is not publicly available in this github repository. Application is deployed on Vercel (live demo on link below).
+#API key is saved within an env file, in variable REACT_APP_API_KEY, that is not publicly available in this github repository. Application is deployed on Vercel (live demo on link below). Detailed instructions on generating personal API key can be found on https://developers.themoviedb.org/3/getting-started/authentication.
 
 # Live Demo
 
